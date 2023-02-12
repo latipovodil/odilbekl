@@ -1,6 +1,5 @@
 ### <!-- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&width=435&lines=Hey+there!+" alt="Typing SVG" /></a></p> -->
- <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&width=435&lines=Hey+there!;I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer" alt="Typing SVG" /></a></p>
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1000&pause=100&color=294B2B&background=FFFFFF00&vCenter=true&width=700&height=100&lines=I+'m+frontent+developer!!!;React%2Cnex-js%2Chtml%2Ccss%2Csass;Sog'+bo'lasla+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" alt="Typing SVG" /></a>
 
 <p> - 🌱 I’m currently learning everything about web development </p>
 <p> - ⚡ Fun fact: I love sports and play guitar </p>
